@@ -1,0 +1,11 @@
+"main components" contains the initial design
+"main_assembly.asm" is the whole design - affter opening this file make sure that no part is missing (it might say some part cannot be found ) - browse for the correct path in case of any error.
+One part inside this folder is to be 3-D printed : Arm_geneva
+
+"Geneva mechanism" contains the design for the parts of arm
+The folder "Version 3.00" contains the latest design of geneva arm
+two parts inside this folder are to be 3-D printed : Drive wheel and Geneva Wheel
+
+The folder "3D printing - high res" contains the STL files that were used for previous 3-D printing. Use these files for printing.  
+
+
