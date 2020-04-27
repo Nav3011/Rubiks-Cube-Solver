@@ -1,0 +1,5 @@
+3d printing : 
+1. Geneva arm - 3
+2. Geneva Wheel - 3
+3. Drive Wheel - 1
+4. Encoders - 4
